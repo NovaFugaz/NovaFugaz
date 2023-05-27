@@ -1,6 +1,9 @@
 Hello There!
+
 (*General Kenobi*)
+
 ¡Soy Ignacia! 
+
 Prospecto de entrenadora Pokémon, profesora de Historia, trans, autista, traductora de anime y manga a tiempo parcial, y programadora de bolsillo.
 Acarreaba cajas para vivir (temporalmente) así que básicamente, era la versión femenina y con *mucha* menos fuerza que los Vigoroth de Pokémon Emerald. Actualmente estoy cesante y soltera, así que soy la mejor partido que puedes pillar (?(mentira, don't hmu))
 
