@@ -18,7 +18,7 @@ Onda, en vez de decir *"quiero hacer esto, voy a googlear cómo hacerlo" __proce
 Así que nada.
 
 
-- 🔭 I’m currently working on ✨v a r i a s  c o s i t a s✨... y mudarme.
+- 🔭 I’m currently working on ✨v a r i a s  c o s i t a s✨... y me mudé (técnicamente).
 - 🌱 I’m currently learning Python, Django, PostgreSQL
 - 💬 Ask me about idk, lo que sea.
 - 📫 How to reach me: En Twitter siempre contesto (?)
